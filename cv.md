@@ -4,4 +4,4 @@ icon: fa-user
 layout: page
 order: 3
 ---
- <iframe src="https://iworeushankaonce.github.io/assets/files/cv.pdfs" width="100%" height="500px">
+ <iframe src="https://github.com/iworeushankaonce/iworeushankaonce.github.io/blob/master/assets/files/cv.pdf" width="100%" height="500px">
