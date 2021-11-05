@@ -35,7 +35,7 @@ subtitle: social media links below
 description: >- # this means to ignore newlines until "baseurl:"
   Arslan Gabdulkhakov
 author: Arslan Gabdulkhakov
-
+avatar: assets/images/avatar1.jpg
 
 # You'll want to customize url and baseurl for your own site:
 url: "https://iworeushankaonce.github.io" # the base hostname & protocol for your site
