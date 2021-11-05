@@ -40,7 +40,7 @@ email: gabdulkhakovarslan (at) gmail dot com
 avatar: assets/images/avatar.jpg
 
 # You'll want to customize url and baseurl for your own site:
-url: "https://iworeushankaonce.github.io/" # the base hostname & protocol for your site
+url: "https://iworeushankaonce.github.io" # the base hostname & protocol for your site
 baseurl: "/" # the subpath of your site, e.g. /blog
 
 # Social settings
