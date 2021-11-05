@@ -31,12 +31,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Arslan's Page
-subtitle: Your awesome subtitle
+subtitle: social links below
 description: >- # this means to ignore newlines until "baseurl:"
   This is the demo site for a Jekyll theme version of
   HTML5 UP's sleek, responsive site template Prologue.
 author: Arslan Gabdulkhakov
-email: gabdulkhakovarslan (at) gmail dot com
 avatar: assets/images/avatar1.jpg
 
 # You'll want to customize url and baseurl for your own site:
@@ -45,16 +44,10 @@ baseurl: "/" # the subpath of your site, e.g. /blog
 
 # Social settings
 # Make sure to include the full url including protocol, e.g. https://github.com/chrisbobbe
-twitter_url: https://twitter.com/iworeushnkaonc
-facebook_url:
-googleplus_url:
-instagram_url:
+twitter_url: https://twitter.com/iworeushankaonc
 linkedin_url: https://www.linkedin.com/in/gabdulkhakov/
 github_url: https://github.com/iworeushankaonce
-stackoverflow_url:
-pinterest_url:
-slack_url:
-dribbble_url:
+
 
 # Google Analytics Tracking ID goes here:
 google_analytics:
