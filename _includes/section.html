@@ -14,7 +14,6 @@
 {%- if include.photo and include.photo-alt -%}
 	{%- capture _photo -%}
 		<img src="{{- include.photo | relative_url -}}" alt="{{- include.photo-alt -}}" class="back">
-		<br>
 	{%- endcapture -%}
 	{%- assign _class = 'shade-one cover dark' -%}
 {%- else -%}
@@ -26,6 +25,7 @@
 	{%- assign _heading = "" -%}
 {%- else -%}
 	{%- capture _heading -%}
+		<br>
 		<header>
 			<h2>
         {%- if include.auto-header == null or include.auto-header == 'use-title' -%}
