@@ -1,6 +1,5 @@
+misc/
 /_site
-_sections/misc/
-_posts/misc/
 *.gem
 .sass-cache
 Gemfile.lock
