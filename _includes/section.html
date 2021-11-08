@@ -27,12 +27,14 @@
 	{%- capture _heading -%}
 		<br>
 		<header>
-			<h2>
+			<h2 align="left">
+				<b>
         {%- if include.auto-header == null or include.auto-header == 'use-title' -%}
           {{- _title -}}
         {%- else -%}
           {{- include.auto-header -}}
         {%- endif -%}
+		</b>
       </h2>
       {%- if include.subtitle -%}<p>{{- include.subtitle -}}</p>{%- endif -%}
 		</header>
